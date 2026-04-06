@@ -88,7 +88,7 @@ Create a `.env` file in the root directory:
 
 ```env
 NODE_ENV=development
-PORT=5000
+PORT=7777
 MONGO_URI=mongodb://localhost:27017/finance-db
 JWT_SECRET=your_super_secret_jwt_key_change_in_production
 JWT_EXPIRE=7d
@@ -457,13 +457,11 @@ JWT_EXPIRE=7d
 - [ ] API rate limiting
 - [ ] Caching with Redis
 
-## 📄 License
 
-MIT
 
 ## 👨‍💻 Author
 
-Your Name - Backend Developer
+Your Name - Lakshay
 
 ---
 
