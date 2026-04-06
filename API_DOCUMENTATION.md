@@ -5,7 +5,7 @@ Complete API reference for the Financial Records Management System.
 ## Base URL
 
 ```
-http://localhost:5000/api
+http://localhost:7777/api
 ```
 
 ## Authentication
