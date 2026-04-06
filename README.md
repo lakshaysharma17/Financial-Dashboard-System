@@ -460,8 +460,8 @@ JWT_EXPIRE=7d
 
 
 ## 👨‍💻 Author
-
-Your Name - Lakshay
+**lakshaysharma17**
+- GitHub: [@lakshaysharma17](https://github.com/lakshaysharma17)
 
 ---
 
